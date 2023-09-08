@@ -1,0 +1,25 @@
+<div style="position:absolute;top:106%;left:0;right:0;font-size:1.5vw">
+			<script language="JavaScript" type="text/javascript" src="quotes.js"></script>
+			<script language="JavaScript" type="text/javascript">
+			  function getQuote(){
+				var thisquote=Math.floor(Math.random()*(quotes.length));
+				document.write(quotes[thisquote]);
+			  }
+			</script>
+			<script language="JavaScript" type="text/javascript">
+			  getQuote();
+			</script>
+		</div>
+
+in javascript:
+
+var quotes=new Array();
+	quotes[0]="不思議なサイトですね";
+	quotes[1]="Enjoy our soap collection!";
+	quotes[2]="Get your snacks!";
+	quotes[3]="時間が歩調を合わせません";
+	quotes[4]="어때?";
+	quotes[5]="幻想曲をかけてください";
+	quotes[6]="縁辺でextacyともに書きました";
+	quotes[7]="…ってちょうだい";
+	quotes[8]="power, politics, and pastries";

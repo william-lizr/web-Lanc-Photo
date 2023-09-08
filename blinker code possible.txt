@@ -1,0 +1,6 @@
+.atarashii {
+  animation: blinker2 0.6s cubic-bezier(1, 0, 0, 1) infinite alternate;  
+  font-weight: normal;
+  color: red;
+}
+@keyframes blinker2 { to { opacity: 0; } 

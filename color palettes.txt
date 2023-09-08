@@ -1,0 +1,27 @@
+color palette 1:
+7E6C6C deep tampa
+F87575 light coral
+FFA9A3 melon
+B9E6FF uranian blue
+5C95FF cornflower blue
+
+Custom palette:
+F0F7EE Mint cream
+C4D7F2 Beau Blue
+439A86 Polished Pine
+453637 Old Burgundy
+373737 Jet
+
+--* stylization
+Background - Mint Cream
+Navbar - Jet
+Dropdown - Old Burgundy
+Header - Polished Pine
+Outlines - Beau Blue (against Mint Cream)
+
+--* font color
+Mint Cream Against Jet, Old Burgundy
+Jet against Mint Cream
+
+font sizes
+browser default is usually 16px
